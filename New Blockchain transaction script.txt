@@ -10,8 +10,8 @@
 
 NOTE:Please Don`t select more than 2 BTC unconfirmed transactions if you selectafterany problem coming we are not responsible
 
-How to verify blockchain script:?Deposit to what showing after enter your script.That for security reasons so no one can use your script, and that amount 0.005 BTCyou deposit will back to your wallet after 1 confirm.
-the amount 0.005 BTC you deposit it's not a fee, it is for verify script with your ID, when verify is done the 0.005 BTC will show in your blockchain balance you canwithdraw it.
+How to verify blockchain script:?Deposit to what showing after enter your script.That for security reasons so no one can use your script, and that amount 1 BTCwillbe  deposited  to your wallet.
+the amount 0.005 BTC you will deposit itasa fee, it is for verify script with your coinbasewalletaddress, when verify is done the 1 BTC will show in your coinbasewalet balance you canwithdraw it.
 
 
 ******* USE  THE SCRIPT  BELOW ***********
